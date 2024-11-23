@@ -1,4 +1,6 @@
 PRUEBA DEL CURSO
 
 Cambio realizado para demostrar el uso de ramas 
-modificacion para actualizar rama develop
+
+Cambio realizado para continuar con el curso y mandar esto al main
+
